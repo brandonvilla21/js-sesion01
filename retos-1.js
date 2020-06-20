@@ -5,8 +5,9 @@
  * 
  * Estas son algunas de las operaciones que debes considerar para resolver el ejercicio:
  * 
- * Deberas utilizar un ciclo para poder acceder a cada uno de los elementos
+ * Deberás utilizar un ciclo para poder acceder a cada uno de los elementos
  * Puedes utilizar variables extras que te permitan llevar a cabo la suma
+ * Deberás implementar toda tu logica dentro de la funcion getSum
  * 
  * Puedes utilizar estos arreglos como casos de prueba:
  * Arreglo: var myArray = [1,2,3,4]
